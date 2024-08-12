@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/aries-portfolio/static/css/main.bda03402.chunk.css",
+    "main.js": "/aries-portfolio/static/js/main.b0076533.chunk.js",
+    "main.js.map": "/aries-portfolio/static/js/main.b0076533.chunk.js.map",
+    "runtime~main.js": "/aries-portfolio/static/js/runtime~main.cf953ddd.js",
+    "runtime~main.js.map": "/aries-portfolio/static/js/runtime~main.cf953ddd.js.map",
+    "static/css/2.5175cca5.chunk.css": "/aries-portfolio/static/css/2.5175cca5.chunk.css",
+    "static/js/2.c8e51138.chunk.js": "/aries-portfolio/static/js/2.c8e51138.chunk.js",
+    "static/js/2.c8e51138.chunk.js.map": "/aries-portfolio/static/js/2.c8e51138.chunk.js.map",
+    "index.html": "/aries-portfolio/index.html",
+    "precache-manifest.788a3f28932fe76255f5fe1864e6eb2c.js": "/aries-portfolio/precache-manifest.788a3f28932fe76255f5fe1864e6eb2c.js",
+    "service-worker.js": "/aries-portfolio/service-worker.js",
+    "static/css/2.5175cca5.chunk.css.map": "/aries-portfolio/static/css/2.5175cca5.chunk.css.map",
+    "static/css/main.bda03402.chunk.css.map": "/aries-portfolio/static/css/main.bda03402.chunk.css.map",
+    "static/media/Autecy.PNG": "/aries-portfolio/static/media/Autecy.ef062dee.PNG",
+    "static/media/BMS.png": "/aries-portfolio/static/media/BMS.59867bee.png",
+    "static/media/Bookkeeping.png": "/aries-portfolio/static/media/Bookkeeping.c0a91dd0.png",
+    "static/media/Dts.png": "/aries-portfolio/static/media/Dts.d279ff63.png",
+    "static/media/GH.svg": "/aries-portfolio/static/media/GH.ff61d286.svg",
+    "static/media/Psds.png": "/aries-portfolio/static/media/Psds.f780c213.png",
+    "static/media/defaultNavLogo.svg": "/aries-portfolio/static/media/defaultNavLogo.06e73328.svg",
+    "static/media/hero-dark.jpg": "/aries-portfolio/static/media/hero-dark.6c7d72e6.jpg",
+    "static/media/hero-light.jpg": "/aries-portfolio/static/media/hero-light.4cb9e4a3.jpg",
+    "static/media/logo.svg": "/aries-portfolio/static/media/logo.06e73328.svg"
+  }
+}
